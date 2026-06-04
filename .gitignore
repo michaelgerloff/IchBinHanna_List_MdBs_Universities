@@ -1,0 +1,19 @@
+# Data folders
+Input/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Conda
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
