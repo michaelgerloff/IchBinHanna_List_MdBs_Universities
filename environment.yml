@@ -1,0 +1,14 @@
+name: MdBs_Unis
+channels:
+  - defaults
+dependencies:
+  - geopy
+  - matplotlib
+  - python
+  - pandas
+  - thefuzz
+  - geopandas
+  - ipykernel
+  - tqdm
+  - ipywidgets
+  - openpyxl
